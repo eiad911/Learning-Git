@@ -1,2 +1,2 @@
 # Learning-Git
-## Projrkt notes
+## Projekt notes
